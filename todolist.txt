@@ -1,0 +1,5 @@
+My New TO-DO List
+
+- Learn Git
+- Watch Git tutorial
+- Finish GitHub practical
